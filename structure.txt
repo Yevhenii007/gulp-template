@@ -1,0 +1,10 @@
+app/
+	images/
+	styles/
+		base/
+			_base.scss/
+			_variabels.scss/
+			_mixins.scss
+		main.scss/
+	scripts/
+	index.html

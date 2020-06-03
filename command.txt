@@ -1,0 +1,13 @@
+cd url
+cd ../
+cd ./
+nkdir name folder  ---- nkdir some
+touch index.html
+
+1.0.0
+production.beta.alfa
+
+
+--global -g
+--save-dev
+--save -s
